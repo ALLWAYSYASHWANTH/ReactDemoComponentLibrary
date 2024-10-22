@@ -1,6 +1,6 @@
 {
   "name": "@allwaysyashwanth/react-demo-component-library",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "description": "An react demo component library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
